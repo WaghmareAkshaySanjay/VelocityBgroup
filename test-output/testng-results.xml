@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[reading value urlof from properties file]]>
+    </line>
+    <line>
+      <![CDATA[browser is lunch]]>
+    </line>
+    <line>
+      <![CDATA[reading value mobileNumberof from properties file]]>
+    </line>
+    <line>
+      <![CDATA[Sending mobileNum]]>
+    </line>
+    <line>
+      <![CDATA[click signIN button]]>
+    </line>
+    <line>
+      <![CDATA[MobileNumber is accept ]]>
+    </line>
+    <line>
+      <![CDATA[reading value passwordof from properties file]]>
+    </line>
+    <line>
+      <![CDATA[Password is Accept]]>
+    </line>
+    <line>
+      <![CDATA[click on submit button]]>
+    </line>
+    <line>
+      <![CDATA[reading value UserNameof from properties file]]>
+    </line>
+    <line>
+      <![CDATA[to take a screensot ]]>
+    </line>
+    <line>
+      <![CDATA[Validation  is passed]]>
+    </line>
+    <line>
+      <![CDATA[LogOut is sucessful ]]>
+    </line>
+    <line>
+      <![CDATA[reading value mobileNumberof from properties file]]>
+    </line>
+    <line>
+      <![CDATA[Sending mobileNum]]>
+    </line>
+    <line>
+      <![CDATA[click signIN button]]>
+    </line>
+    <line>
+      <![CDATA[MobileNumber is accept ]]>
+    </line>
+    <line>
+      <![CDATA[reading value passwordof from properties file]]>
+    </line>
+    <line>
+      <![CDATA[Password is Accept]]>
+    </line>
+    <line>
+      <![CDATA[click on submit button]]>
+    </line>
+    <line>
+      <![CDATA[ji]]>
+    </line>
+    <line>
+      <![CDATA[click on Analyzer button ]]>
+    </line>
+    <line>
+      <![CDATA[click on Analyzer Options button ]]>
+    </line>
+    <line>
+      <![CDATA[to take a screensot ]]>
+    </line>
+    <line>
+      <![CDATA[LogOut is sucessful ]]>
+    </line>
+    <line>
+      <![CDATA[reading value mobileNumberof from properties file]]>
+    </line>
+    <line>
+      <![CDATA[Sending mobileNum]]>
+    </line>
+    <line>
+      <![CDATA[click signIN button]]>
+    </line>
+    <line>
+      <![CDATA[MobileNumber is accept ]]>
+    </line>
+    <line>
+      <![CDATA[reading value passwordof from properties file]]>
+    </line>
+    <line>
+      <![CDATA[Password is Accept]]>
+    </line>
+    <line>
+      <![CDATA[click on submit button]]>
+    </line>
+    <line>
+      <![CDATA[ji]]>
+    </line>
+    <line>
+      <![CDATA[actualbalance balance is ]]>
+    </line>
+    <line>
+      <![CDATA[actualbalance balance is ]]>
+    </line>
+    <line>
+      <![CDATA[AC balance is Rs.5,00,000.00]]>
+    </line>
+    <line>
+      <![CDATA[actualbalance balance is ]]>
+    </line>
+    <line>
+      <![CDATA[to take a screensot ]]>
+    </line>
+    <line>
+      <![CDATA[LogOut is sucessful ]]>
+    </line>
+    <line>
+      <![CDATA[ Browser Close succesfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-02T16:58:11 IST" name="Default suite" finished-at="2022-12-02T16:58:51 IST" duration-ms="40375">
+    <groups>
+    </groups>
+    <test started-at="2022-12-02T16:58:11 IST" name="Default test" finished-at="2022-12-02T16:58:51 IST" duration-ms="40375">
+      <class name="neoStoxTestClass.ValidateUserName">
+        <test-method is-config="true" signature="launchNeoStox()[pri:0, instance:neoStoxTestClass.ValidateUserName@53045c6c]" started-at="2022-12-02T16:58:11 IST" name="launchNeoStox" finished-at="2022-12-02T16:58:17 IST" duration-ms="6238" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[reading value urlof from properties file]]>
+            </line>
+            <line>
+              <![CDATA[browser is lunch]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchNeoStox -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:neoStoxTestClass.ValidateUserName@53045c6c]" started-at="2022-12-02T16:58:17 IST" name="beforeMethod" finished-at="2022-12-02T16:58:26 IST" duration-ms="9094" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[reading value mobileNumberof from properties file]]>
+            </line>
+            <line>
+              <![CDATA[Sending mobileNum]]>
+            </line>
+            <line>
+              <![CDATA[click signIN button]]>
+            </line>
+            <line>
+              <![CDATA[MobileNumber is accept ]]>
+            </line>
+            <line>
+              <![CDATA[reading value passwordof from properties file]]>
+            </line>
+            <line>
+              <![CDATA[Password is Accept]]>
+            </line>
+            <line>
+              <![CDATA[click on submit button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ValaidateUserName()[pri:0, instance:neoStoxTestClass.ValidateUserName@53045c6c]" started-at="2022-12-02T16:58:26 IST" name="ValaidateUserName" finished-at="2022-12-02T16:58:27 IST" duration-ms="336" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[reading value UserNameof from properties file]]>
+            </line>
+            <line>
+              <![CDATA[to take a screensot ]]>
+            </line>
+            <line>
+              <![CDATA[Validation  is passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValaidateUserName -->
+        <test-method is-config="true" signature="LogOut()[pri:0, instance:neoStoxTestClass.ValidateUserName@53045c6c]" started-at="2022-12-02T16:58:27 IST" name="LogOut" finished-at="2022-12-02T16:58:31 IST" duration-ms="4466" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[LogOut is sucessful ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:neoStoxTestClass.ValidateUserName@53045c6c]" started-at="2022-12-02T16:58:31 IST" name="beforeMethod" finished-at="2022-12-02T16:58:36 IST" duration-ms="5317" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[reading value mobileNumberof from properties file]]>
+            </line>
+            <line>
+              <![CDATA[Sending mobileNum]]>
+            </line>
+            <line>
+              <![CDATA[click signIN button]]>
+            </line>
+            <line>
+              <![CDATA[MobileNumber is accept ]]>
+            </line>
+            <line>
+              <![CDATA[reading value passwordof from properties file]]>
+            </line>
+            <line>
+              <![CDATA[Password is Accept]]>
+            </line>
+            <line>
+              <![CDATA[click on submit button]]>
+            </line>
+            <line>
+              <![CDATA[ji]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ckickOnAnalyzerButton()[pri:0, instance:neoStoxTestClass.ValidateUserName@53045c6c]" started-at="2022-12-02T16:58:36 IST" name="ckickOnAnalyzerButton" finished-at="2022-12-02T16:58:37 IST" duration-ms="648" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[click on Analyzer button ]]>
+            </line>
+            <line>
+              <![CDATA[click on Analyzer Options button ]]>
+            </line>
+            <line>
+              <![CDATA[to take a screensot ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ckickOnAnalyzerButton -->
+        <test-method is-config="true" signature="LogOut()[pri:0, instance:neoStoxTestClass.ValidateUserName@53045c6c]" started-at="2022-12-02T16:58:37 IST" name="LogOut" finished-at="2022-12-02T16:58:40 IST" duration-ms="3228" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[LogOut is sucessful ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:neoStoxTestClass.ValidateUserName@53045c6c]" started-at="2022-12-02T16:58:40 IST" name="beforeMethod" finished-at="2022-12-02T16:58:47 IST" duration-ms="6569" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[reading value mobileNumberof from properties file]]>
+            </line>
+            <line>
+              <![CDATA[Sending mobileNum]]>
+            </line>
+            <line>
+              <![CDATA[click signIN button]]>
+            </line>
+            <line>
+              <![CDATA[MobileNumber is accept ]]>
+            </line>
+            <line>
+              <![CDATA[reading value passwordof from properties file]]>
+            </line>
+            <line>
+              <![CDATA[Password is Accept]]>
+            </line>
+            <line>
+              <![CDATA[click on submit button]]>
+            </line>
+            <line>
+              <![CDATA[ji]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateACbalance()[pri:0, instance:neoStoxTestClass.ValidateUserName@53045c6c]" started-at="2022-12-02T16:58:47 IST" name="validateACbalance" finished-at="2022-12-02T16:58:47 IST" duration-ms="400" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[actualbalance balance is ]]>
+            </line>
+            <line>
+              <![CDATA[actualbalance balance is ]]>
+            </line>
+            <line>
+              <![CDATA[AC balance is Rs.5,00,000.00]]>
+            </line>
+            <line>
+              <![CDATA[actualbalance balance is ]]>
+            </line>
+            <line>
+              <![CDATA[to take a screensot ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateACbalance -->
+        <test-method is-config="true" signature="LogOut()[pri:0, instance:neoStoxTestClass.ValidateUserName@53045c6c]" started-at="2022-12-02T16:58:47 IST" name="LogOut" finished-at="2022-12-02T16:58:51 IST" duration-ms="3427" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[LogOut is sucessful ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:neoStoxTestClass.ValidateUserName@53045c6c]" started-at="2022-12-02T16:58:51 IST" name="CloseBrowser" finished-at="2022-12-02T16:58:51 IST" duration-ms="542" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ Browser Close succesfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- neoStoxTestClass.ValidateUserName -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
