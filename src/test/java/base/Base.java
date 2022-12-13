@@ -24,6 +24,12 @@ public class Base
 		driver.get(Utility.readDatafromPropertyFile("url"));
 		
 		
+		
+		
+		
+		
+		
+		
 	}
 	public void Closebrowser(WebDriver driver) 
 	{
