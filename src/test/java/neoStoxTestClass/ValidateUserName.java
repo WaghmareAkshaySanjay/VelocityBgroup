@@ -21,6 +21,8 @@ import org.testng.annotations.AfterClass;
 
 public class ValidateUserName extends Base
 {
+	//create Object of homepage ,loginpage,passwordpage 
+	
 	Loginpage login;
 	PasswordPage password;
 	Homepage homepage;
